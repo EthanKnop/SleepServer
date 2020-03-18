@@ -4,8 +4,8 @@ This is a Express server built with node.js which allows connections to put the 
 Requires [PsShutdown](https://docs.microsoft.com/en-us/sysinternals/downloads/psshutdown).
 
 ## Usage
-'''sh
+```sh
 $ cd SleepServer
 $ npm install -d
 $ node index.js
-'''
+```
